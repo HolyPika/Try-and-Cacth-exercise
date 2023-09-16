@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try and Cacth Exercise", "Try and Cacth Exercise\Try and Cacth Exercise.csproj", "{16E190E1-D073-456A-9E73-226B030A8138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E190E1-D073-456A-9E73-226B030A8138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E190E1-D073-456A-9E73-226B030A8138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E190E1-D073-456A-9E73-226B030A8138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E190E1-D073-456A-9E73-226B030A8138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30095234-4CFD-471F-815F-2CDAE001FE0B}
+	EndGlobalSection
+EndGlobal
